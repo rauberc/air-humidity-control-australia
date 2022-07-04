@@ -11,3 +11,7 @@ Rauber, C., Lima‐Filho, L. M., & Bayer, F. M. (2022). Residual‐based CUSUM b
 # Contact
 
 Cristine Rauber (rauberoliveira at gmail.com)
+
+# License
+
+[MIT](https://github.com/rauberc/humidity-control/blob/main/LICENSE)
