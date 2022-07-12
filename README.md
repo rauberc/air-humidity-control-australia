@@ -10,7 +10,7 @@ The dataset refers to the relative humidity (RH) in Australia and highlights the
 # Description of the features used in the beta regression model
 
 | Feature     | Description                                                    |
-|------------- ----------------------------------------------------------------|
+|-------------|----------------------------------------------------------------|
 |RelHumid3pm  | Relative humidity (%) at 3pm                                   |
 |Cloud3pm     | Fraction of sky obscured by cloud at 3pm                       |
 |Evaporation  | The so-called Class A pan evaporation (mm) in the 24h to 9am   |
