@@ -1,4 +1,4 @@
-# Relative air humidity control in Australia
+# Relative air humidity control in Sydney, Australia
 
 This is the code used in the second application of the paper [Residual-based CUSUM beta regression control chart for monitoring double-bounded processes
 ](https://onlinelibrary.wiley.com/doi/abs/10.1002/qre.3140) from Cristine Rauber, Luiz M. A. Lima-Filho, and Fábio M. Bayer.
